@@ -1,0 +1,2 @@
+!function(){var e={decrBtnRef:document.querySelector("button[data-action=decrement]"),incrBtnRef:document.querySelector("button[data-action=increment]"),spanRef:document.querySelector("#value")},t=0;e.decrBtnRef.addEventListener("click",(function(){t-=1,e.spanRef.textContent=t})),e.incrBtnRef.addEventListener("click",(function(n){t+=1,e.spanRef.textContent=t}))}();
+//# sourceMappingURL=task-04.40e5cf2b.js.map
