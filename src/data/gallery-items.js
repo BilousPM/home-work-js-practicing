@@ -63,3 +63,5 @@ export const galleryItems = [
     description: 'Lighthouse Coast Sea',
   },
 ];
+
+// import { galleryItems } from './gallery-items.js';
